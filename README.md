@@ -5,3 +5,5 @@ Project mentor: Atharv Sathe
 Project members: Vedant Ghodke, Purva Chaudhari
 
 Timeline: 20th July 2020 - 19th December 2020
+
+Problem Statment: Implement customizable driving simulator using CARLA: This will include customizations according to our scenarios and data.
