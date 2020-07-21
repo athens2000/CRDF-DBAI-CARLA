@@ -1,0 +1,16 @@
+Attended by: Purva, Vedant
+
+MOM
+Introduction and discussion on problem statments. 
+Develop required skill set and acclimatize with CARLA simulator.
+
+Task for nex week (21 Jul - 28 Jul)
+Purva: Try to install CARLA on google colab and gauge its performance. If successfully able to run on colab, analyze which premium colab plan works best for this project course.
+Create one page document stating specifications required by CARLA to import sensor and environment dataset. Also note any limitation by CARLA.
+
+Vedant: Try to install CARLA on dual boot ubunut with 2GB graphics card. Gauge the performnace.
+Create one page document stating specifications required by CARLA to import sensor and environment dataset. Also note any limitation by CARLA.
+
+Some specifications may include csv file format, required and optional fields etc.
+Some limitations may include maximum number of vehicles that can be simulated at one time, not possible to simulate external factors like accidents etc.
+
