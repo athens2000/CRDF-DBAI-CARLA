@@ -1,0 +1,16 @@
+Attended by: Purva, Vedant
+
+MOM
+Purva tried installing Carla on colab but faced issues with VGL
+repo referred: https://github.com/MichaelBosello/carla-colab
+
+Vedant successfully installed Carla on dual boot Linux machine.
+Indicated functionility is good but lags a laot.
+Running it on local machine may not be an option.
+
+Task for nex week (21 Jul - 28 Jul)
+Purva: Try to resolve VGL error. If successfully able to run on colab, analyze which premium colab plan works best for this project course.
+Create one page document stating specifications required by CARLA to import sensor and environment dataset. Also note any limitation by CARLA.
+
+Vedant: Explore other platforms to run Carla. Start with kaggle as literature is available. Explore if it is possible to run on AWS or any other colud platform
+Note any limitation by CARLA.
