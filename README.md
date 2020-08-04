@@ -11,3 +11,4 @@ Problem Statment: Implement customizable driving simulator using CARLA: This wil
 
 
 Google Drive: https://drive.google.com/drive/u/0/folders/1o-1_pzZ7-tHg9nDvW-B2JFqZPYSabbJM
+TimeLine and Deliveravles: https://docs.google.com/spreadsheets/d/1SHDgzQ0CxQYyBQr-UKDofxbuhCUsfOH2WEEKuDh8Ehc/edit?ts=5f272691#gid=0
