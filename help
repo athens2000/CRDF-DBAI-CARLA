@@ -1,0 +1,4 @@
+Login in to AWS EC2 instnace with .pem file
+  Using Mac OS Catalina
+  ssh -i <path_to_pem_file>/newton.pem ubuntu@ec2-3-7-226-161.ap-south-1.compute.amazonaws.com
+  update permissions with: chmod 660 newton.pem, chmod 600 newton.pem
